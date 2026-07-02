@@ -1,0 +1,1 @@
+// SOLO define las URLs y qué controlador usar para cada request
